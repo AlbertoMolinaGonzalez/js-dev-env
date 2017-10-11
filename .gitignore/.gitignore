@@ -1,0 +1,6 @@
+echo "# js-dev-env" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AlbertoMolinaGonzalez/js-dev-env.git
+git push -u origin master
